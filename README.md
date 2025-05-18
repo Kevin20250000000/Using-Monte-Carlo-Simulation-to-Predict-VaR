@@ -36,8 +36,8 @@ where $(\text{Quantile}_{\alpha}$) is the value below which $( \alpha \% $) of t
 
 In this method, assuming returns are normally distributed, VaR can be calculated using:
 
-[VaR𝛼=𝜇−𝑍𝛼⋅𝜎]
-https://colab.research.google.com/drive/1tfdJVILeTRkV3VbN_tXy6oCdiEiAcehc#scrollTo=b758dc56&line=64&uniqifier=1
+**[VaR𝛼=𝜇−𝑍𝛼⋅𝜎]**
+
 
 
 where:
