@@ -28,7 +28,7 @@ For a given confidence level \( \alpha \) (e.g., 95% or 99%) and a historical da
 
 
 
-VaR𝛼=Quantile𝛼(Return Distribution)
+### **VaR𝛼=Quantile𝛼(Return Distribution)**
 
 where $(\text{Quantile}_{\alpha}$) is the value below which $( \alpha \% $) of the observations fall.
 
@@ -36,7 +36,7 @@ where $(\text{Quantile}_{\alpha}$) is the value below which $( \alpha \% $) of t
 
 In this method, assuming returns are normally distributed, VaR can be calculated using:
 
-**[VaR𝛼=𝜇−𝑍𝛼⋅𝜎]**
+### **[VaR𝛼=𝜇−𝑍𝛼⋅𝜎]**
 
 
 
