@@ -26,6 +26,8 @@ Consider a portfolio with a one-day VaR of  1  million dollars at a 95% confiden
 
 For a given confidence level \( \alpha \) (e.g., 95% or 99%) and a historical dataset of returns, VaR can be estimated as:
 
+\text{VaR}_{\alpha} = \text{Quantile}_{\alpha}(\text{Return Distribution})
+
 VaR𝛼=Quantile𝛼(Return Distribution)
 
 where $(\text{Quantile}_{\alpha}$) is the value below which $( \alpha \% $) of the observations fall.
