@@ -64,6 +64,33 @@ Methodological Variance: Different calculation methods can yield varying VaR est
 Despite these limitations, VaR remains a fundamental metric in financial risk management, aiding institutions in understanding and controlling potential losses.
 
 
+### Part I
+### **Variance-Covariance Method**
+
+### Part II
+### **Monte Carlo Method**
+### Portfolio A: 95% VAR using MCM
+
+![image](https://github.com/user-attachments/assets/d6cdc8ea-50b1-41a9-8c25-6f954eda30af)
+
+![image](https://github.com/user-attachments/assets/1372cc24-967a-478f-acda-6b85f8a40c0f)
+
+![image](https://github.com/user-attachments/assets/65f813b8-d282-485b-8f78-f4af10ba984d)
+
+
+### Portfolio B: 95% VAR using MCM
+
+![image](https://github.com/user-attachments/assets/b9e28a9e-792d-46dc-bb39-d2fcbe8fe225)
+
+![image](https://github.com/user-attachments/assets/2da10835-731a-44c8-9d36-1367a96f19ef)
+
+![image](https://github.com/user-attachments/assets/cfac10e9-7e07-4bab-82e5-f6f9eb356f01)
+
+
+
+
+
+
 ## Conclusion
 
 Value at Risk (VaR) is a fundamental tool in financial risk management, providing a standardized measure to estimate potential losses in investment portfolios over a specified time frame and confidence level. By quantifying the maximum expected loss under normal market conditions, VaR enables investors and institutions to make informed decisions, optimize portfolios, and implement effective risk mitigation strategies.
