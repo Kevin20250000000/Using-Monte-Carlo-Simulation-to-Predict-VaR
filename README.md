@@ -48,7 +48,7 @@ VaR can also be estimated using Monte Carlo simulation by simulating a large num
 
 
 
-###**Limitations**
+### **Limitations**
 
 While VaR is a valuable tool for risk assessment, it has certain limitations:
 
