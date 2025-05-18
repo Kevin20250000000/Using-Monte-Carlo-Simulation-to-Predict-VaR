@@ -73,14 +73,14 @@ Portfolio 2: Histogram of Returns (Overview of Return Distribution)
 
 ### Part II
 ### **Monte Carlo Method**
-### Portfolio A: 95% VAR using MCM
+#### Portfolio A: 95% VAR using MCM
 
 ![image](https://github.com/user-attachments/assets/d6cdc8ea-50b1-41a9-8c25-6f954eda30af)
 
 
 
 
-### Portfolio B: 95% VAR using MCM
+#### Portfolio B: 95% VAR using MCM
 
 ![image](https://github.com/user-attachments/assets/b9e28a9e-792d-46dc-bb39-d2fcbe8fe225)
 
