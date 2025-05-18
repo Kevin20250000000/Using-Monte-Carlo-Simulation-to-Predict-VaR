@@ -1,4 +1,4 @@
-# Using-Monte-Carlo-Simulation-to-Predict-VaR
+# Using-Variance-Covariance Method & Monte-Carlo-Simulation-to-Predict-VaR
 
 # Value at Risk (VaR) 
 
