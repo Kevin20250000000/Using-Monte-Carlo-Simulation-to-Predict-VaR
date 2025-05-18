@@ -39,6 +39,7 @@ In this method, assuming returns are normally distributed, VaR can be calculated
 [ \text{VaR}_{\alpha} = \mu - Z_{\alpha} \cdot \sigma
 
 
+
 where:
 - $(\mu$) = Mean of the portfolio returns
 - $(\sigma$) = Standard deviation of the portfolio returns
