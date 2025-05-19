@@ -69,7 +69,11 @@ Despite these limitations, VaR remains a fundamental metric in financial risk ma
 
 Portfolio 1: Histogram of Returns (Overview of Return Distribution)
 
+![newplot (1)](https://github.com/user-attachments/assets/e6f3dc24-769a-4369-973a-248edb223387)
+
+
 Portfolio 2: Histogram of Returns (Overview of Return Distribution)
+![newplot](https://github.com/user-attachments/assets/7e1ded0f-f72b-4f8d-a36c-c968fdffbca9)
 
 ### Part II
 ### **Monte Carlo Method**
