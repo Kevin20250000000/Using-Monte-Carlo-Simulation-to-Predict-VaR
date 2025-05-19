@@ -14,7 +14,7 @@ Confidence Level: The probability that the loss will not exceed the VaR estimate
 Potential Loss Amount: The estimated maximum loss in monetary terms or as a percentage of the portfolio's value.
 
 
-##**Example**
+## **Example**
 
 Consider a portfolio with a one-day VaR of  1  million dollars at a 95% confidence level. This implies that there is a 95% chance that the portfolio will not lose more than $1 million in a single day, and a 5% chance that the loss could exceed this amount.
 
