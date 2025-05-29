@@ -22,6 +22,9 @@ Consider a portfolio with a one-day VaR of  1  million dollars at a 95% confiden
 ## **Calculation Methods**
 **VaR can be calculated using several methods:**
 
+## Project Overview
+This project implements two classical methods—Variance-Covariance and Monte Carlo Simulation—to estimate the Value at Risk (VaR) of an investment portfolio based on historical asset returns. The goal is to simulate portfolio value paths and calculate risk metrics that help in market risk management.
+
 ### 1. Historical Simulation Method
 
 For a given confidence level \( \alpha \) (e.g., 95% or 99%) and a historical dataset of returns, VaR can be estimated as:
