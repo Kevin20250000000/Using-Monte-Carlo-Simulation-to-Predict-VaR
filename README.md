@@ -18,9 +18,6 @@ Potential Loss Amount: The estimated maximum loss in monetary terms or as a perc
 
 Consider a portfolio with a one-day VaR of  1  million dollars at a 95% confidence level. This implies that there is a 95% chance that the portfolio will not lose more than $1 million in a single day, and a 5% chance that the loss could exceed this amount.
 
-# Project Overview
-This project implements two classical methods—Variance-Covariance and Monte Carlo Simulation—to estimate the Value at Risk (VaR) of an investment portfolio based on historical asset returns. The goal is to simulate portfolio value paths and calculate risk metrics that help in market risk management.
-
 
 ## **Calculation Methods**
 **VaR can be calculated using several methods:**
@@ -66,6 +63,8 @@ Methodological Variance: Different calculation methods can yield varying VaR est
 
 Despite these limitations, VaR remains a fundamental metric in financial risk management, aiding institutions in understanding and controlling potential losses.
 
+# Project Overview
+This project implements two classical methods—Variance-Covariance and Monte Carlo Simulation—to estimate the Value at Risk (VaR) of an investment portfolio based on historical asset returns. The goal is to simulate portfolio value paths and calculate risk metrics that help in market risk management.
 
 ### Part I
 ### **Variance-Covariance Method**
